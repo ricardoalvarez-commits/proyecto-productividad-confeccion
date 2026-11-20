@@ -44,6 +44,6 @@ UCI Machine Learning Repository. https://doi.org/10.24432/C51S6D — Licencia **
 Son 1 197 registros × 15 variables de una planta en Bangladesh (enero a marzo de 2015).
 
 ## Uso de inteligencia artificial
-- **Para qué la usamos:** un asistente de IA (Claude, de Anthropic) nos ayudó a depurar el código, adaptar la plantilla del curso (`template_ml.ipynb`) y redactar las explicaciones.
-- **Revisión del equipo:** revisamos todas las decisiones y podemos explicar cada paso.
-- **Datos y costos:** no inventamos ni simulamos datos. Los costos del plan de acción son estimaciones, y sus supuestos están explicados en el informe.
+- **Para qué la usamos:** un asistente de IA (Claude, de Anthropic) nos ayudó a depurar errores del código y nos ayudo en algunas interpretaciones.
+.
+- **Datos y costos:** Los costos del plan de acción son estimaciones, y sus supuestos están explicados en el informe.
